@@ -1,6 +1,7 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const PORT = process.env.PORT || 3000
+require("dotenv").config()
 
 const app = express()
 
@@ -20,3 +21,4 @@ mongoose
     console.log(err)
     process.exit(1)
 })
+console.log(mongoose.connection.readyState)
