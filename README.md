@@ -22,6 +22,9 @@ Money Watcheris saab hallata oma isiklikke rahaasju, jälgida oma kulusid ja tul
 - Lehel näeb veel kuulist kulu/tulu võrdlust (ehk kui palju on plussis või miinuses).
 - Kui aega on siis veel statistikat käibe kohta.
 
+## Test document:
+https://docs.google.com/document/d/1LlVQzxZYQbKkbaG3PckSAD5ZhgsLn7nfHCsGuYUUMnI/edit?usp=sharing
+
 ## Wireframe:
 ![consept](https://user-images.githubusercontent.com/70900278/141458990-021ca52c-bfbe-42f7-961d-4fdc82b1f48d.png)
 ![consept2](https://user-images.githubusercontent.com/70900278/141459047-6d6d74ab-0279-4580-b083-83e7be5ad01f.png)
