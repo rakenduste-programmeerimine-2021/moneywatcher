@@ -13,9 +13,10 @@ import React from 'react';
 
 function App() {
 
-  const { pathname } = useLocation()
+  const { pathname } = useLocation();
 
   return (
+
       <React.Fragment>
         { pathname !== '/login' && pathname !== '/register' && <NavigationBar /> }
         <Routes>
